@@ -43,4 +43,4 @@ Here are some final considerations:
 * You must use proper labeling of your plots, to include properties such as: plot titles, axis labels, legend labels, _x_-axis and _y_-axis limits, etc.
 
   
-### Assignment Extract: Trilogy Education Services © 2020. 
+### Assignment Belongs to: Trilogy Education Services © 2020. 
